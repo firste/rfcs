@@ -82,10 +82,3 @@ This design is the best possible design as it incorporates common analyses used 
 We expect the RFC process will resolve the specifics about the dataset we will use for development and the metrics that will be calculated based on it.
 
 The specific design of the analyses will be resolved in the implementation of this RFC and may require also follow the RFC process.
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Stat
